@@ -1,2 +1,3 @@
 Hello
 Srikanth
+theme:minimal
